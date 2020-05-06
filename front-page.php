@@ -7,5 +7,5 @@
 <div><?php the_content(); ?></div>
 
 <?php endwhile; ?>
-Testing Mix, One, Two, Three.
+
 <?php get_footer(); ?>
