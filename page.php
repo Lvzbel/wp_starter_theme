@@ -1,5 +1,5 @@
 <?php get_header(); ?>
 
-front-page.php
+page.php
 
 <?php get_footer(); ?>
